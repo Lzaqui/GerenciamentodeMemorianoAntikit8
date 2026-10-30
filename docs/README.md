@@ -111,7 +111,7 @@ O simulador também disponibiliza métricas de ocupação da RAM, fragmentação
 
 - **Lorenna Zaqui Oliveira** — MMU e validação da tradução assimétrica.
 - **Luiz Fellipe de Lima Barbosa** — WSClock e Swap.
-- **Miguel** — Auditoria e métricas.
+- **Miguel Kauã de Pietro** — Auditoria e métricas.
 
 ## Contexto acadêmico
 
