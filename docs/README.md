@@ -29,28 +29,6 @@ Uma das principais características do simulador é a utilização de páginas v
 - Linux / WSL
 - Git e GitHub
 
-## Estrutura do projeto
-
-```text
-projeto-Antikit-8/
-├── main.c
-├── hardware_specs.c
-├── hardware_specs.h
-├── memory_trace.txt
-├── testes/
-│   ├── mmu/
-│   │   ├── teste1_traducao.txt
-│   │   └── teste_dois_processos.txt
-│   ├── wsclock/
-│   │   ├── teste2_termico.txt
-│   │   └── teste_wsclock_recente.txt
-│   └── auditoria/
-│       ├── teste4_1kb.txt
-│       ├── teste4_final.txt
-│       └── teste4_fragmentacao.txt
-└── README.md
-```
-
 ## Como executar
 
 ### 1. Clonar o repositório
