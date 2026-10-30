@@ -1,0 +1,6 @@
+antikit8
+antikit8_corrigido
+*.o
+*.out
+*.log
+resultado_*.txt
